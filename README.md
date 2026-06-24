@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo-IASTRAL.jpg" alt="Logo IASTRAL" width="180"/>
-
 # IASTRAL
 
 **Outil de sauvegarde et migration de données Windows**
@@ -23,7 +21,6 @@ Sauvegardez vos dossiers, vos favoris et vos mots de passe de navigateur en quel
 - [Fonctionnalités](#-fonctionnalités)
 - [Installation](#-installation)
 - [Utilisation](#-utilisation)
-- [Captures d'écran](#-captures-décran)
 - [Structure du projet](#-structure-du-projet)
 - [Avertissement Windows SmartScreen](#️-avertissement-windows-smartscreen)
 - [Sécurité](#-sécurité)
@@ -103,16 +100,6 @@ python main.py
 4. Cliquez sur **ANALYSER** pour estimer la taille totale et vérifier l'espace disque disponible
 5. Cliquez sur **SIMULATION** pour un essai à blanc, ou **DÉMARRER** pour lancer la copie réelle
 6. À la fin, retrouvez votre **rapport PDF** et le **journal d'activité** dans le dossier de destination
-
----
-
-## 🖼️ Captures d'écran
-
-| Thème clair | Thème sombre |
-|---|---|
-| ![Thème clair](docs/screenshot-light.png) | ![Thème sombre](docs/screenshot-dark.png) |
-
-> Ajoutez vos propres captures dans un dossier `docs/` du dépôt pour qu'elles s'affichent ici.
 
 ---
 
