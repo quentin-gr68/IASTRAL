@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo-IASTRAL.jpg" alt="Logo IASTRAL" width="180"/>
+
 # IASTRAL
 
 **Outil de sauvegarde et migration de données Windows**
